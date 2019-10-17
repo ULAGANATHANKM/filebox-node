@@ -60,11 +60,11 @@ module.exports = server;
 ## Services
 
 Folder Related Services
-
-An example: https://github.com/ULAGANATHANKM/filebox-node/blob/master/routes/file.js
+-----------------------
+https://github.com/ULAGANATHANKM/filebox-node/blob/master/routes/file.js
 
 Files Related Services
-
+-----------------------
 https://github.com/ULAGANATHANKM/filebox-node/blob/master/routes/folder.js
 
 ##License
